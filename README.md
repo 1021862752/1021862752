@@ -1,5 +1,6 @@
 ### 大家好👋，我是一名java后端开发工程师，懂一点前端知识，也懂一些其他开发语言
-，欢迎和我交流
+qq：1021862752 欢迎和我交流
+
 <!--
 **1021862752/1021862752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
